@@ -22,50 +22,54 @@
 
 **1. Promoting High-Performing Aisles**
 
-Hypothesis: Promoting products from the highest-selling aisles will boost overall sales.
+- **Hypothesis:** Promoting products from the highest-selling aisles will boost overall sales.
 
-Opportunity: Create targeted promotions and highlight these aisles on the app’s home page.
+- **Opportunity:** Create targeted promotions and highlight these aisles on the app’s home page.
 
 
 **2. Customers Tend to Do More Orders During the Weekend**
 
-Hypothesis: Detecting patterns of orders during the week and at which time of the day such occurs.
+- **Hypothesis:** Detecting patterns of orders during the week and at which time of the day such occurs.
 
-Opportunity: Implement features on the app to increase consumer interaction during peak times.
+- **Opportunity:** Implement features on the app to increase consumer interaction during peak times.
 
 
 **3. Identify Customer Loyalty**
 
-Hypothesis: Establishing loyalty levels for different types of customers and developing a program to increase customer engagement and order frequency.
+- **Hypothesis:** Establishing loyalty levels for different types of customers and developing a program to increase customer engagement and order frequency.
 
-Opportunity: Identify features from different customer groups (clusters) and try to increase loyalty and orders.
+- **Opportunity:** Identify features from different customer groups (clusters) and try to increase loyalty and orders.
 
 
 ### Visualization 📈
+
 
 ### **EDA - 1️⃣ Hypothesis**
 
 *Approach:*
 
-	•	Analyze sales data to identify the top-performing aisles.
-	•	Determine the impact of these aisles on overall sales.
-	•	Develop promotional strategies to feature products from these aisles prominently on the app.
+- Analyze sales data to identify the top-performing aisles.
+- Determine the impact of these aisles on overall sales.
+- Develop promotional strategies to feature products from these aisles prominently on the app.
 
 ### **EDA - 2️⃣ Hypothesis**
 
 *Approach:*
 
-	•	Analyze order data to identify peak order times during the week and throughout the day.
-	•	Determine the variations in order frequency between weekdays and weekends.
-	•	Develop and implement features such as special weekend deals or notifications to encourage orders during identified peak times.
+- Analyze order data to identify peak order times during the week and throughout the day.
+- Determine the variations in order frequency between weekdays and weekends.
+- Develop and implement features such as special weekend deals or notifications to encourage orders during identified peak times.
 
 ### **EDA - 3️⃣ hypothesis**
 
 *Approach:*
 
-	•	Segment customers into different loyalty levels based on order frequency and behavior.
-	•	Analyze the characteristics of each customer segment to identify key features.
-	•	Develop targeted loyalty programs and marketing strategies to enhance customer engagement and increase order frequency within each segment.
+- Segment customers into different loyalty levels based on order frequency and behavior.
+- Analyze the characteristics of each customer segment to identify key features.
+- Develop targeted loyalty programs and marketing strategies to enhance customer engagement and increase order frequency within each segment.
+
+
+
 
 ### Conclusion
 
