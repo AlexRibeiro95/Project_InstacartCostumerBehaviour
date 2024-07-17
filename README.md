@@ -27,7 +27,7 @@
 - **Opportunity:** Create targeted promotions and highlight these aisles on the app’s home page.
 
 
-**2. Customers Tend to Do More Orders During the Weekend**
+**2. Detecting patterns in order timing:**
 
 - **Hypothesis:** Detecting patterns of orders during the week and at which time of the day such occurs.
 
