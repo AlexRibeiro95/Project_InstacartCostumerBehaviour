@@ -52,7 +52,7 @@
 - Determine the impact of these aisles on overall sales.
 - Develop promotional strategies to feature products from these aisles prominently on the app.
 
-![Data Visualization](Visualizations/Visualizations/Piechart1stHypothesis.png)
+![Data Visualization](Visualizations/Piechart1stHypothesis.png)
 
 ![Data Visualization](Visualizations/Countplot1stHypothesis.png)
 
