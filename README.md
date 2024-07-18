@@ -52,6 +52,8 @@
 - Determine the impact of these aisles on overall sales.
 - Develop promotional strategies to feature products from these aisles prominently on the app.
 
+![Data Visualization](Visualizations/Countplot1stHypothesis.png)
+
 ### **EDA - 2️⃣ Hypothesis**
 
 *Approach:*
