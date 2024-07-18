@@ -56,8 +56,10 @@
 - Develop promotional strategies to feature products from these aisles prominently on the app.
 
 ![Data Visualization](Visualizations/Piechart1stHypothesis.png)
+*Pie Chart showing the order distribution per department.*
 
 ![Data Visualization](Visualizations/Countplot1stHypothesis.png)
+*Count Plot illustrates the top 10 aisles with most orders.*
 
 ### **2️⃣ Hypothesis - Detecting patterns in order timing**
 
@@ -68,9 +70,10 @@
 - Develop and implement features such as special weekend deals or notifications to encourage orders during identified peak times.
 
 ![Data Visualization](Visualizations/barplot2ndHypothesis.png)
+*Bar Plot showing the distribution of number of orders through the week days*
 
 ![Data Visualization](Visualizations/GroupedPlot2ndHypothesis.png)
-
+*Grouped Bar Plot illustrating the distribution of orders on the weekend per hour*
 
 ### **3️⃣ hypothesis - Identify Customer Loyalty**
 
@@ -81,11 +84,13 @@
 - Develop targeted loyalty programs and marketing strategies to enhance customer engagement and increase order frequency within each segment.
 
 ![Data Visualization](Visualizations/LoyaltyClusters3rdHypothesis.png)
+*Scatter plot demonstrating the 3 different clusters before cleaning the outliers*
 
 ![Data Visualization](Visualizations/Clusterw:outliers3rdHypothesis.png)
+*Scatter plot demonstrating the 3 different clusters without outliers*
 
 ![Data Visualization](Visualizations/NumberOfObservationsPerCluster.png)
-
+*Dimension of each cluster*
 
 ### Conclusion
 
