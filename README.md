@@ -43,7 +43,7 @@
 
 ### Visualization 📈
 
-### **Enhanced Entity-Relationship**
+### **Enhanced Entity-Relationship (EER) - SQL**
 
 ![Data Visualization](Visualizations/ERRDiagram.png)
 
