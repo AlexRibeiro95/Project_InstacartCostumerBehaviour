@@ -101,7 +101,7 @@
 **Notion and Presentation:**
 
 - [Project Management](https://cactus-burrito-0dd.notion.site/Project-Instacart-app-sales-854592432e90440faebe7b55cb11327b)
-- [Presentation Goodle Slides](https://docs.google.com/presentation/d/1uiVZbRM3E4v7bWEqPsparMRku_oGHysH-yP8XjI5IK4/edit#slide=id.g10fb8bc67f7_0_0)
+- [Presentation Goodle Slides](https://docs.google.com/presentation/d/1ItK6A9RNOQfkACQRExnW3eD0N_ykrxaR4_JZmu5kLOQ/edit#slide=id.g12df2f0ffa6_1_40341)
 
 
 **Credits:**
