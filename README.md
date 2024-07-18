@@ -43,6 +43,9 @@
 
 ### Visualization 📈
 
+### **Enhanced Entity-Relationship**
+
+![Data Visualization](Visualizations/ERRDiagram.png)
 
 ### **1️⃣ Hypothesis - Promoting High-Performing Aisles**
 
