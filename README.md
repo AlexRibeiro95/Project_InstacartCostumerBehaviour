@@ -44,7 +44,7 @@
 ### Visualization 📈
 
 
-### **EDA - 1️⃣ Hypothesis**
+### **1️⃣ Hypothesis - Promoting High-Performing Aisles**
 
 *Approach:*
 
@@ -54,7 +54,9 @@
 
 ![Data Visualization](Visualizations/Countplot1stHypothesis.png)
 
-### **EDA - 2️⃣ Hypothesis**
+![Data Visualization](Visualizations/Countplot1stHypothesis.png)
+
+### **2️⃣ Hypothesis - Detecting patterns in order timing**
 
 *Approach:*
 
@@ -62,7 +64,12 @@
 - Determine the variations in order frequency between weekdays and weekends.
 - Develop and implement features such as special weekend deals or notifications to encourage orders during identified peak times.
 
-### **EDA - 3️⃣ hypothesis**
+![Data Visualization](Visualizations/barplot2ndHypothesis.png)
+
+![Data Visualization](Visualizations/GroupedPlot2ndHypothesis.png)
+
+
+### **3️⃣ hypothesis - Identify Customer Loyalty**
 
 *Approach:*
 
@@ -70,7 +77,11 @@
 - Analyze the characteristics of each customer segment to identify key features.
 - Develop targeted loyalty programs and marketing strategies to enhance customer engagement and increase order frequency within each segment.
 
+![Data Visualization](Visualizations/LoyaltyClusters3rdHypothesis.png)
 
+![Data Visualization](Visualizations/Clusterw:outliers3rdHypothesis.png)
+
+![Data Visualization](Visualizations/NumberOfObservationsPerCluster.png)
 
 
 ### Conclusion
