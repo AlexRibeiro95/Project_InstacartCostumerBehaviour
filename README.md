@@ -47,7 +47,7 @@
 
 ![Data Visualization](Visualizations/ERRDiagram.png)
 
-### **1️⃣ Hypothesis - Promoting High-Performing Aisles**
+### **1️⃣ Hypothesis - Promoting products from the highest-selling aisles will boost overall sales.**
 
 *Approach:*
 
@@ -61,7 +61,7 @@
 ![Data Visualization](Visualizations/Countplot1stHypothesis.png)
 *Count Plot illustrates the top 10 aisles with most orders.*
 
-### **2️⃣ Hypothesis - Detecting patterns in order timing**
+### **2️⃣ Hypothesis - Detecting patterns of orders during the week and at which time of the day such occurs.**
 
 *Approach:*
 
@@ -75,7 +75,7 @@
 ![Data Visualization](Visualizations/GroupedPlot2ndHypothesis.png)
 *Grouped Bar Plot illustrating the distribution of orders on the weekend per hour*
 
-### **3️⃣ hypothesis - Identify Customer Loyalty**
+### **3️⃣ hypothesis - Establishing loyalty levels for different types of customers and developing a program to increase customer engagement and order frequency.**
 
 *Approach:*
 
