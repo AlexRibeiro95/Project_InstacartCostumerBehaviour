@@ -70,10 +70,12 @@
 - Develop and implement features such as special weekend deals or notifications to encourage orders during identified peak times.
 
 ![Data Visualization](Visualizations/barplot2ndHypothesis.png)
-*Bar Plot showing the distribution of number of orders through the week days*
+
+- *Bar Plot showing the distribution of number of orders through the week days*
 
 ![Data Visualization](Visualizations/GroupedPlot2ndHypothesis.png)
-*Grouped Bar Plot illustrating the distribution of orders on the weekend per hour*
+
+- *Grouped Bar Plot illustrating the distribution of orders on the weekend per hour*
 
 ### **3️⃣ hypothesis - Establishing loyalty levels for different types of customers and developing a program to increase customer engagement and order frequency.**
 
@@ -84,13 +86,16 @@
 - Develop targeted loyalty programs and marketing strategies to enhance customer engagement and increase order frequency within each segment.
 
 ![Data Visualization](Visualizations/LoyaltyClusters3rdHypothesis.png)
-*Scatter plot demonstrating the 3 different clusters before cleaning the outliers*
+
+- *Scatter plot demonstrating the 3 different clusters before cleaning the outliers*
 
 ![Data Visualization](Visualizations/Clusterw:outliers3rdHypothesis.png)
-*Scatter plot demonstrating the 3 different clusters without outliers*
+
+- *Scatter plot demonstrating the 3 different clusters without outliers*
 
 ![Data Visualization](Visualizations/NumberOfObservationsPerCluster.png)
-*Dimension of each cluster*
+
+- *Dimension of each cluster*
 
 ### Conclusion
 
