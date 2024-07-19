@@ -105,12 +105,13 @@
 
 **Notion and Presentation:**
 
-- [Project Management](https://cactus-burrito-0dd.notion.site/Project-Instacart-app-sales-854592432e90440faebe7b55cb11327b)
+- [Notion - Project Management](https://cactus-burrito-0dd.notion.site/Project-Instacart-app-sales-854592432e90440faebe7b55cb11327b)
 - [Presentation Goodle Slides](https://docs.google.com/presentation/d/1ItK6A9RNOQfkACQRExnW3eD0N_ykrxaR4_JZmu5kLOQ/edit#slide=id.g12df2f0ffa6_1_40341)
 
 
 **Credits:**
-*For any questions or further information, please contact:*
+
+- *For any questions or further information, please contact:*
 
 - [Alexandre Ribeiro](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
 - [Rosa Evasari](https://www.linkedin.com/in/erlinarosaevasari/)
